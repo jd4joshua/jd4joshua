@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jd4joshua
+- 👋 Hi, I’m @Joshua
 - 👀 I’m interested in UI development and UX designing.
 - 🌱 I’m currently learning Angular and ReactJS
 
